@@ -1,0 +1,5 @@
+**Práctica de control de versiones con Git y GitHub**
+
+**Participante:** Griselda
+
+**Actividad:** Segunda solicitud de cambios mediante Pull Request.
