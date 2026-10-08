@@ -1,2 +1,2 @@
 # Proyecto1Version 1.1
-Joselin
+Primeras correcciones
